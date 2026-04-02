@@ -1,0 +1,46 @@
+{
+  "brandName": "Aisha Rehman",
+  "identity": {
+    "primaryService": "Research Writing & Methodology Expert",
+    "techStack": [
+      {
+        "serviceName": "Research Writing",
+        "tools": ["Academic Papers", "Thesis/Dissertations", "Business Reports", "White Papers", "Literature Reviews"]
+      },
+      {
+        "serviceName": "Research Methods",
+        "tools": ["Quantitative", "Qualitative", "Mixed-Methods", "Research Designs"]
+      },
+      {
+        "serviceName": "Data Analysis",
+        "tools": ["SPSS", "AMOS", "Excel", "Statistical Tools"]
+      }
+    ],
+    "locations": ["Global (Remote)", "Faisalabad, Pakistan (Local)"]
+  },
+  "design": {
+    "colors": {
+      "primary": "#1E40AF",
+      "secondary": "#10B981",
+      "background": "#FFFFFF",
+      "text": "#111827",
+      "accent": "#FCD34D"
+    },
+    "typography": {
+      "heading": "Oswald",
+      "body": "Plus Jakarta Sans"
+    }
+  },
+  "contact": {
+    "email": "aisharehman.researcher@gmail.com",
+    "whatsapp": "+923000000000",
+    "calendly": "https://calendly.com/aisharehman",
+    "timezone": "Available for PKT, GMT, and EST zones"
+  },
+  "seo": {
+    "globalTitle": "Aisha Rehman | Research Writing & SPSS Methodology Expert",
+    "localTitle": "Research Consultant & SPSS Services in Pakistan | Aisha Rehman",
+    "description": "Professional research writing, methodology design, and data analysis (SPSS/AMOS) by Aisha Rehman. 5+ years of experience with 500+ successful projects.",
+    "keywords": "Research Writing Consultant, SPSS expert Pakistan, Academic Writer, Thesis Methodology Specialist, AMOS Data Analysis"
+  }
+}

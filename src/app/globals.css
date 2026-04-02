@@ -1,0 +1,51 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #1E40AF;
+  --color-secondary: #10B981;
+  --color-accent: #FCD34D;
+  --color-brand-bg: #FFFFFF;
+  --color-brand-text: #111827;
+
+  --font-heading: "Oswald", sans-serif;
+  --font-body: "Plus Jakarta Sans", sans-serif;
+
+}
+
+@keyframes marquee {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
+
+.animate-marquee {
+  display: flex;
+  width: max-content;
+  animation: marquee 40s linear infinite;
+}
+
+.pause-marquee:hover {
+  animation-play-state: paused;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+:root {
+  --background: #FFFFFF;
+  --foreground: #111827;
+  --primary: #1E40AF;
+  --secondary: #10B981;
+  --accent: #FCD34D;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-body);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-heading);
+}
+
