@@ -2,6 +2,7 @@
 
 import React, { useState, useEffect } from "react";
 import Image from "next/image";
+import Link from "next/link";
 import brandConfig from "../../brandConfig.json";
 
 const Navbar = () => {
@@ -33,7 +34,7 @@ const Navbar = () => {
     >
       <div className="max-w-7xl mx-auto px-6 lg:px-24 flex items-center justify-between relative z-[100]">
         {/* Logo */}
-        <a href="#home" className="flex items-center gap-1 group">
+        <Link href="/" className="flex items-center gap-1 group">
           <div className="relative w-14 h-14 overflow-hidden transform group-hover:scale-110 transition-transform duration-300">
             <Image 
               src="/logo.png" 
@@ -45,7 +46,7 @@ const Navbar = () => {
           <span className="text-2xl font-heading font-black text-brand-text tracking-tighter">
             Aisha<span className="text-primary italic">Rehman</span>
           </span>
-        </a>
+        </Link>
 
         {/* Desktop Navigation */}
         <div className="hidden lg:flex items-center gap-10">

@@ -5,18 +5,37 @@
     "techStack": [
       {
         "serviceName": "Research Writing",
-        "tools": ["Academic Papers", "Thesis/Dissertations", "Business Reports", "White Papers", "Literature Reviews"]
+        "tools": [
+          "Academic Papers",
+          "Thesis/Dissertations",
+          "Business Reports",
+          "White Papers",
+          "Literature Reviews"
+        ]
       },
       {
         "serviceName": "Research Methods",
-        "tools": ["Quantitative", "Qualitative", "Mixed-Methods", "Research Designs"]
+        "tools": [
+          "Quantitative",
+          "Qualitative",
+          "Mixed-Methods",
+          "Research Designs"
+        ]
       },
       {
         "serviceName": "Data Analysis",
-        "tools": ["SPSS", "AMOS", "Excel", "Statistical Tools"]
+        "tools": [
+          "SPSS",
+          "AMOS",
+          "Excel",
+          "Statistical Tools"
+        ]
       }
     ],
-    "locations": ["Global (Remote)", "Faisalabad, Pakistan (Local)"]
+    "locations": [
+      "Global (Remote)",
+      "Faisalabad, Pakistan (Local)"
+    ]
   },
   "design": {
     "colors": {
@@ -33,7 +52,7 @@
   },
   "contact": {
     "email": "aisharehman.researcher@gmail.com",
-    "whatsapp": "+923000000000",
+    "whatsapp": "+92 306 0825923",
     "calendly": "https://calendly.com/aisharehman",
     "timezone": "Available for PKT, GMT, and EST zones"
   },
